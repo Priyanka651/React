@@ -87,5 +87,92 @@ You can now open your web browser and visit http://localhost:3002 to see your ne
 This confirms that your React development environment is set up and running successfully.
 
 ### My Output
+## PS C:\react-app> npm init react-app firstapp
+>> 
+Need to install the following packages:
+## create-react-app@5.1.0
+Ok to proceed? (y) y
+
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated fstream-ignore@1.0.5: This package is no longer supported.
+npm warn deprecated uid-number@0.0.6: This package is no longer supported.
+npm warn deprecated rimraf@2.7.1: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated fstream@1.0.12: This package is no longer supported.
+npm warn deprecated tar@2.2.2: This version of tar is no longer supported, and will not receive security updates. Please upgrade asap.
+```bash 
+> react-app@1.0.0 npx
+> create-react-app firstapp
+```
+create-react-app is deprecated.
+
+You can find a list of up-to-date React frameworks on react.dev
+For more info see:https://react.dev/link/cra
+
+This error message will only be shown once per install.
+
+## Creating a new React app in C:\react-app\firstapp.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+added 1325 packages in 1m
+
+268 packages are looking for funding
+  run `npm fund` for details
+
+Initialized a git repository.
+
+Installing template dependencies using npm...
+
+added 18 packages, and changed 1 package in 7s
+
+268 packages are looking for funding
+  run `npm fund` for details
+Removing template package using npm...
+
+
+removed 1 package, and audited 1343 packages in 3s
+
+268 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (2 moderate, 6 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+## Created git commit.
+
+Success! Created firstapp at C:\react-app\firstapp
+Inside that directory, you can run several commands:
+
+##  npm start
+    Starts the development server.
+
+ ## npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+##  npm run eject
+Compiled successfully!
+
+You can now view firstapp in the browser.
+
+```bash
+  Local:            http://localhost:3002
+  On Your Network:  http://172.20.10.3:3002
+```
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+
+
 ![image](https://github.com/user-attachments/assets/930f476f-ec1f-4512-ae93-7d2d1ff9b5b5)
 
