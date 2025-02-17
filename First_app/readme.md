@@ -82,7 +82,7 @@ On Your Network:  http://192.168.x.x:3000
 he message Compiled successfully! means your React app is running without errors.
 
 ## Step 6: Open the App in the Browser
-You can now open your web browser and visit http://localhost:3000 to see your new React app! You should see a page that looks like this:
+You can now open your web browser and visit http://localhost:3002 to see your new React app! You should see a page that looks like this:
 
 This confirms that your React development environment is set up and running successfully.
 
