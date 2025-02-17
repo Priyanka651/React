@@ -173,6 +173,8 @@ To create a production build, use npm run build.
 
 webpack compiled successfully
 
+http://localhost:3002
+
 
 ![image](https://github.com/user-attachments/assets/930f476f-ec1f-4512-ae93-7d2d1ff9b5b5)
 
