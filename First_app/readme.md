@@ -90,7 +90,7 @@ This confirms that your React development environment is set up and running succ
 ## PS C:\react-app> npm init react-app firstapp
 >> 
 Need to install the following packages:
-## create-react-app@5.1.0
+>>  create-react-app@5.1.0
 Ok to proceed? (y) y
 
 npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
@@ -161,7 +161,7 @@ Inside that directory, you can run several commands:
     Starts the test runner.
 
 ##  npm run eject
-Compiled successfully!
+## Compiled successfully!
 
 You can now view firstapp in the browser.
 
