@@ -4,9 +4,10 @@ To make this more fun, in this exercise, you'll be building a simple number-gues
 
 ## Steps
 Step 1
-This task’s starting point is the App component’s h1 element that reads: “Task: Add a button and handle a click event”.
+This task’s starting point is the App component’s h1 element that reads: 
+“Task: Add a button and handle a click event”.
 
-bash```
+```bash
 function App() {
   return (
     <div>
@@ -44,6 +45,7 @@ Use the  npm start command to start the development server.
 If you encounter errors like File not found or Unexpected token, stop the server with Ctrl+C in the terminal and restart it using npm start.  
 
  You can now view the App in your browser by navigating to localhost:3000. 
+ ## output 
 ![Screenshot 2025-03-12 233554](https://github.com/user-attachments/assets/4e76b770-cb77-4d04-b0ad-3c604060c05a)
 
 
